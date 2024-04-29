@@ -1,0 +1,7 @@
+const stri = 'abcdefg';
+
+const result = stri.spilt('');
+result.reverse();
+result.join('');
+
+
